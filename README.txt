@@ -1,3 +1,6 @@
+############## PROYECTO CEFODEH #############
+Agradesco al CENTRO DE ESTUDIOS Y FORMACION EN DESARROLLO HUMANO A.C. por el apoyo y guia para la elaboracion de este proyecto.
+
 # 💰 Finanzas Personales con Excel: Plantillas y Herramientas
 
 
